@@ -14,7 +14,7 @@ Additional Resources:
 """
 
 # Copyright Text
-copyright = "©diptadhar2024"
+copyright = "©diptadhar2025"
 
 # Load the model
 model = load_model("bin_classification.hdf5")
