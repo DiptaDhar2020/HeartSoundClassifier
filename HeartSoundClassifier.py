@@ -14,7 +14,7 @@ Additional Resources:
 """
 
 # Copyright Text
-copyright = "©diptadhar2025"
+copyright = "©diptadhar2026"
 
 # Load the model
 model = load_model("bin_classification.hdf5")
@@ -50,3 +50,4 @@ if uploaded_file is not None:
 st.markdown(f"<center style='margin-top: 30px; text-align: justify; text-align-last: center; font-size: 18px;'>{disclaimer}</center>", unsafe_allow_html=True)
 st.markdown(resources, unsafe_allow_html=True)
 st.markdown(f"<center style='margin-top: 20px;'>{copyright}</center>", unsafe_allow_html=True)
+
